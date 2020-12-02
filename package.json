@@ -1,0 +1,29 @@
+{
+  "name": "lcj-cli-vue",
+  "version": "1.0.0",
+  "bin": {
+    "lcj-cli": "index.js"
+  },
+  "description": "A Vue.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "child_process": "^1.0.2",
+    "commander": "^4.1.1",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daisylcj/lcj-cli-vue.git"
+  },
+  "author": "lichunjing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daisylcj/lcj-cli-vue/issues"
+  },
+  "homepage": "https://github.com/Daisylcj/lcj-cli-vue#readme"
+}
