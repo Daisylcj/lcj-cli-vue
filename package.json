@@ -1,8 +1,8 @@
 {
   "name": "lcj-cli-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": {
-    "lcj-cli": "index.js"
+    "lcj-cli-vue": "index.js"
   },
   "description": "A Vue.js project",
   "main": "index.js",
